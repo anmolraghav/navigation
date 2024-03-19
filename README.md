@@ -1,1 +1,1 @@
-I have created a reesponsive navbar.
+I have created a responsive navbar.
